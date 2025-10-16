@@ -6,7 +6,7 @@
 | B |   |   |   |
 | C |   |   |   |
 
-**Legenda**
+**jogadores**
 
 - ❌ Primeiro jogador 
 - ⭕ Segundo jogador
