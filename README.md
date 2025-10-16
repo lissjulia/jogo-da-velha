@@ -8,5 +8,5 @@
 
 **jogadores**
 
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- ❌ julia 1 
+- ⭕ julia 2
